@@ -18,7 +18,6 @@ public class Sorter {
      * calls the sort function
      *
      * @param number int array of numbers
-     * @param number int array of numbers
      **/
     public void sortNumbers(int[] numbers) {
         strategy.sort(numbers);
